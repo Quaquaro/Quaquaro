@@ -39,7 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Quaquaro&show_icons=true&locale=en&theme=algolia" alt="Quaquaro Git- Hub Stats"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Quaquaro&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Quaquaro Git-Hub Stats" />
 </p>
 <br><br><br><br><br><br><br><br><br><br><br>
-<hr>
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=Quaquaro&theme=algolia&no-bg=true" />
 </p>
