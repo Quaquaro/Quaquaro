@@ -22,7 +22,7 @@
 </br>
 <p align="center">
 <i>Follow me around the web:</i><br>
-<a href="https://www.linkedin.com/in/christoph-timm-052bb81b5/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin Profil ChristophTimm" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/christoph-timm-052bb81b5/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin Profil ChristophTimm" height="30" width="40" /></a>  
 </p>
 <br><br>
 <hr>
