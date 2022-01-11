@@ -1,18 +1,9 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Quaquaro&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-31-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Germany-success" />
-  <img src="https://img.shields.io/badge/Languages-German%20%26%20English-brightgreen" />
-</p>
-<hr>
-<div align="center">
- <h2>
+---
   Hello I'm Christoph <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   I'm a Pharmacist, Project Manager and soon a Junior Web Developer!</h2>
-</div>
+    
+   
+---
 
  🔭 I’m currently working on Nothing 
  <br>
