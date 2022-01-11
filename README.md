@@ -11,7 +11,7 @@
 <div align="center">
  <h2>
   Hello I'm Christoph <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  I'm a Pharmacist, Projectmanager and soon a Junior Web Developer!</h2>
+  I'm a Pharmacist, Project Manager and soon a Junior Web Developer!</h2>
 </div>
 
  🔭 I’m currently working on Nothing 
@@ -93,4 +93,4 @@ Here are some ideas to get you started:
 
 Credit: [Quaquaro](https://github.com/Quaquaro)
 <br>
-Last Edited on: 10/01/2022
+Last Edited on: 11/01/2022
