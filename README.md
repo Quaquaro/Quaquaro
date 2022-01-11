@@ -1,24 +1,19 @@
----
-  Hello I'm Christoph <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  I'm a Pharmacist, Project Manager and soon a Junior Web Developer!</h2>
-    
-   
----
 
- 🔭 I’m currently working on Nothing 
- <br>
+  # Hello I'm Christoph <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+   **I'm a Pharmacist, Project Manager and soon a Junior Web Developer!**
+ ---
+ 
+ 🔭 I’m currently working on Nothing
+ 
  🌱 I’m currently learning WebDev
 
 </br>
-</br>
+</br>                              
 <p align="center">
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/christoph-timm-052bb81b5/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin Profil ChristophTimm" height="30" width="40" /></a>  
-</p>
-<br><br>
-<hr>
-<strong>🛠 &nbsp;Tech Stack</strong>
-<br>
+
+### 🛠 Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
