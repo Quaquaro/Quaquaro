@@ -7,6 +7,8 @@
  
  🌱 I’m currently learning WebDev
 
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a>
                               
 <p align="center">
 <i>Follow me around the web:</i><br>
@@ -29,20 +31,4 @@
 </p>
 
 
- <!--
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning WebDev
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Quaquaro&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Quaquaro's Github Stats">
-</div>
--->
+ 
