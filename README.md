@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaquaro&label=Profile%20views&color=4cc2cf&style=plastic" alt="quaquaro" /> </p>
 
-- 🔭 I’m currently working on [Tablua Rasa](https://github.com/Quaquaro/capstone-project)
+- 🔭 I’m currently working on [TABULA RASA](https://github.com/Quaquaro/capstone-project)
 
 - 🌱 I’m currently learning **React, Webdevelopment**
 
