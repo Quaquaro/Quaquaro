@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christoph</h1>
 <h3 align="center">a versatile junior webdeveloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quaquaro&label=Profile%20views&color=4cc2cf&style=plastic" alt="quaquaro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=quaquaro&label=Profile%20views&color=4cc2cf&style=plastic" alt="quaquaro" /> </p>
 
 - 🔭 I’m currently working on [TABULA RASA](https://github.com/Quaquaro/capstone-project)
 
@@ -22,8 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quaquaro&show_icons=true&theme=tokyonight&locale=en" alt="quaquaro" /></p>
 
 
+<p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a>
                               
 
 
