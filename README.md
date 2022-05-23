@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TABULA RASA](https://github.com/Quaquaro/capstone-project)
 
-- 🌱 I’m currently learning **React, Webdevelopment**
+- 🌱 I’m currently learning **Angular, Webdevelopment and JAVA/Kotlin**
 
 - 📫 How to reach me **c.timm@posteo.de**
 
