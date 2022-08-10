@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=quaquaro&label=Profile%20views&color=4cc2cf&style=plastic" alt="quaquaro" /> </p>
 
-- 🔭 I’m currently working on [TABULA RASA](https://github.com/Quaquaro/capstone-project)
+- 🔭 I’m currently working on a Schoolapp
 
-- 🌱 I’m currently learning **Angular, Webdevelopment and JAVA/Kotlin**
+- 🌱 I’m currently improving my **JavaScript**
 
 - 📫 How to reach me **c.timm@posteo.de**
 
