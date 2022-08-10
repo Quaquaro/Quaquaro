@@ -21,11 +21,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quaquaro&show_icons=true&theme=tokyonight&locale=en" alt="quaquaro" /></p>
 
-<!--  daily.dev BOOKMARKS:START -->
-
-<!--  daily.dev BOOKMARKS:END -->
-
 <p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
 
 
 
