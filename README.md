@@ -24,6 +24,9 @@
 
 <p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
 
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
                               
 
 
