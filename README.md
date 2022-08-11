@@ -23,7 +23,13 @@
 
 <p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
 
-<!-- daily.dev BOOKMARKS:START --> <!-- daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+- [9 Bad React Habits to Kick From Your Life](https://app.daily.dev/posts/mnbdSRbXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [A Complete Guide to Debugging Javascript in Chrome](https://app.daily.dev/posts/5KwWbq-AQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [5 Good practices to scale your React projects easily](https://app.daily.dev/posts/azRUPITVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [How to automate API tests with Postman](https://app.daily.dev/posts/t8HiQN64h?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [11 Authentication Mistakes and how to fix them](https://app.daily.dev/posts/KiL1C-Fx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+<!-- daily.dev BOOKMARKS:END -->
 
 
 
