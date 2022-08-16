@@ -24,11 +24,11 @@
 <p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Don&#39;t lose your Github contributions when you leave an organization](https://app.daily.dev/posts/27Wm4Ww-s?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [GitHub Leak: GitHub secrets best practices](https://app.daily.dev/posts/7GzIja7vw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Deploying React apps to GitHub Pages](https://app.daily.dev/posts/WFM_yoBn7?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [The 60:30:10 color rule for web design](https://app.daily.dev/posts/Rr7L2Tb3h?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [I made 100 CSS loaders for your next project](https://app.daily.dev/posts/UhGZKxRMh?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [9 Bad React Habits to Kick From Your Life](https://app.daily.dev/posts/mnbdSRbXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
