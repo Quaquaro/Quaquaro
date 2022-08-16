@@ -24,11 +24,11 @@
 <p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [GitHub Leak: GitHub secrets best practices](https://app.daily.dev/posts/7GzIja7vw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Deploying React apps to GitHub Pages](https://app.daily.dev/posts/WFM_yoBn7?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [The 60:30:10 color rule for web design](https://app.daily.dev/posts/Rr7L2Tb3h?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [I made 100 CSS loaders for your next project](https://app.daily.dev/posts/UhGZKxRMh?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [9 Bad React Habits to Kick From Your Life](https://app.daily.dev/posts/mnbdSRbXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [A Complete Guide to Debugging Javascript in Chrome](https://app.daily.dev/posts/5KwWbq-AQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
