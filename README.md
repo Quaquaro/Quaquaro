@@ -24,11 +24,11 @@
 <p align="center"><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/quaquaro/quaquaro/blob/main/devcard.svg" width="400" alt="Christoph Timm's Dev Card"/></a></p>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How To Deploy Your React Website in 2022!](https://app.daily.dev/posts/jeKIU7YOo?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Open Source for Developers – A Beginner&#39;s Handbook to Help You Start Contributing](https://app.daily.dev/posts/ji627p02B?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Unit testing with React and Cypress](https://app.daily.dev/posts/i5ejTwTbS?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [total-typescript/beginners-typescript-tutorial: An interactive TypeScript tutorial for beginners](https://app.daily.dev/posts/4IcjV2Obg?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
