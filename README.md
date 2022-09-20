@@ -10,8 +10,8 @@
 <h2 align="center">My favorite project💻</h2>
 <br />
 <p align="center">
-  <img width="400" height="" src="https://user-images.githubusercontent.com/67676597/160276553-50e7c8dc-b424-415a-ab29-22ff169b646f.png" />
-  <img width="400" height="" src="https://user-images.githubusercontent.com/67676597/160276553-50e7c8dc-b424-415a-ab29-22ff169b646f.png" />
+  <img width="390" height="" src="https://user-images.githubusercontent.com/67676597/160276553-50e7c8dc-b424-415a-ab29-22ff169b646f.png" />
+  <img width="400" height="" src="https://user-images.githubusercontent.com/67676597/161292239-9cb5c588-ef56-404b-84ef-ae2e3adb338b.png" />
  <a href="https://github.com/Quaquaro/capstone-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=quaquaro&repo=capstone-project&theme=tokyonight" />
 </a>
