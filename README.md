@@ -15,6 +15,21 @@
  <a href="https://github.com/Quaquaro/capstone-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=quaquaro&repo=capstone-project&theme=tokyonight" />
 </a>
+</p>
+<br />
+
+<h2 align="center">About me</h2>
+
+<br />
+<p>In my latest project, I created <a href="https://github.com/Quaquaro/capstone-project">TABULA RASA</a> which will help boardgame players to track there results via this app. I created this project at the end of my further training at neue fische gmbh.</p>
+
+<p>:muscle: I am currently ... working on a school app.</p>
+<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
+<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
+<p>:ghost: Fun fact: ... I studied pharmacy and learned programming during and alongside my job. </p>
+
+<br />
+<br />
 <p>
 <h3 align="center">Languages and Tools:</h3>
 </p>
