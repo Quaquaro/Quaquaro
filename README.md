@@ -35,11 +35,11 @@
 ★ **Last bookmarked articles**
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Simple way to generate PDF from HTML](https://app.daily.dev/posts/SHqbWxNpw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [JavaScript sending data between windows](https://app.daily.dev/posts/C_t4KFdnN?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Deploying React applications to Netlify](https://app.daily.dev/posts/Qz7cpU--0?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [How To Manage React States Like A Pro](https://app.daily.dev/posts/FbD2NsExC?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [How To Deploy Your React Website in 2022!](https://app.daily.dev/posts/jeKIU7YOo?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [Open Source for Developers – A Beginner&#39;s Handbook to Help You Start Contributing](https://app.daily.dev/posts/ji627p02B?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [Unit testing with React and Cypress](https://app.daily.dev/posts/i5ejTwTbS?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
