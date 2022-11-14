@@ -35,11 +35,11 @@
 ★ **Last bookmarked articles**
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A Beginner’s Guide to Nmap](https://app.daily.dev/posts/KLInJziIB?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [“Optimum” WriteUp. This easy machine from HackTheBox…](https://app.daily.dev/posts/g2EJ-2F2a?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Simple way to generate PDF from HTML](https://app.daily.dev/posts/SHqbWxNpw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [JavaScript sending data between windows](https://app.daily.dev/posts/C_t4KFdnN?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Deploying React applications to Netlify](https://app.daily.dev/posts/Qz7cpU--0?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [How To Manage React States Like A Pro](https://app.daily.dev/posts/FbD2NsExC?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
