@@ -35,11 +35,11 @@
 ★ **Last bookmarked articles**
 
 <!-- daily.dev BOOKMARKS:START -->
-- [A Beginner’s Guide to Nmap](https://app.daily.dev/posts/KLInJziIB?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [“Optimum” WriteUp. This easy machine from HackTheBox…](https://app.daily.dev/posts/g2EJ-2F2a?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [Simple way to generate PDF from HTML](https://app.daily.dev/posts/SHqbWxNpw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [JavaScript sending data between windows](https://app.daily.dev/posts/C_t4KFdnN?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [Deploying React applications to Netlify](https://app.daily.dev/posts/Qz7cpU--0?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [GitHub Leak: GitHub secrets best practices](https://app.daily.dev/posts/7GzIja7vw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [Deploying React apps to GitHub Pages](https://app.daily.dev/posts/WFM_yoBn7?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
+- [I made 100 CSS loaders for your next project](https://app.daily.dev/posts/UhGZKxRMh?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
