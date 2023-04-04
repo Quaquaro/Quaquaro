@@ -35,11 +35,11 @@
 ★ **Last bookmarked articles**
 
 <!-- daily.dev BOOKMARKS:START -->
+- [PyQt6 Themes using CSS Stylesheets](https://app.daily.dev/posts/lFoHYgTXA?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [GitHub Leak: GitHub secrets best practices](https://app.daily.dev/posts/7GzIja7vw?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 - [Deploying React apps to GitHub Pages](https://app.daily.dev/posts/WFM_yoBn7?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
-- [I made 100 CSS loaders for your next project](https://app.daily.dev/posts/UhGZKxRMh?utm_source=rss&utm_medium=bookmarks&utm_campaign=50rYqXArzF6pbFtZNTJ1M)
 <!-- daily.dev BOOKMARKS:END -->
 
 
